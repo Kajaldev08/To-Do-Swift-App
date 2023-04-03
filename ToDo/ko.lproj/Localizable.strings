@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ToDo
+
+  Created by Derek Chan on 2020/8/21.
+  
+*/
+"Title"   = "표제";
+"Notes"   = "노트";
+"Date"    = "데이트";
+"Time"    = "시각";
+"Color"   = "색깔";
+"Mark"    = "표";
+"Done"    = "끝난";
+"Cancel"  = "취소";
+"Details" = "뭔가 해";
+

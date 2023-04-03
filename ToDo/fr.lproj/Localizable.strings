@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ToDo
+
+  Created by Derek Chan on 2020/8/21.
+  
+*/
+"Title"   = "Titre";
+"Notes"   = "Remarques";
+"Date"    = "Date";
+"Time"    = "Temps";
+"Color"   = "Couleur";
+"Mark"    = "Marque";
+"Done"    = "Terminé";
+"Cancel"  = "Annuler";
+"Details" = "Faire quelque chose";
+

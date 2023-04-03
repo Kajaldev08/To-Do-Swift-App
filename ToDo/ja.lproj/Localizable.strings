@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ToDo
+
+  Created by Derek Chan on 2020/8/21.
+  
+*/
+"Title"   = "題名";
+"Notes"   = "ノート";
+"Date"    = "日付";
+"Time"    = "時間";
+"Color"   = "色";
+"Mark"    = "マーク";
+"Done"    = "できた";
+"Cancel"  = "キャンセル";
+"Details" = "何かをする";
+
